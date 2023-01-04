@@ -55,20 +55,20 @@
 							<div style="margin-top:80px;">
 								<h1><b>We Offer:</b></h1>
 							</div>
-							<div style="display:inline-block">
-								<img src="images/tapsilog.jpg" alt="" class="tapsilog"><p>Foods</p>
+							<div class="col-4" style="display:inline-block">
+								<img src="images/fillet.jpg" alt="" class="tapsilog"><p>Foods</p>
+							</div>
+
+							<div class="col-4" style="display:inline-block">
+								<img src="images/coffee.jpg" alt="" class="tapsilog"><p>Coffee</p>
+							</div>
+
+							<div class="col-4" style="display:inline-block">
+								<img src="images/spaghetti.jpg" alt="" class="tapsilog"><p>Pasta</p>
 							</div>
 
 							<div style="display:inline-block">
-								<img src="images/chocolate-coffee.jpg" alt="" class="tapsilog"><p>Coffee</p>
-							</div>
-
-							<div style="display:inline-block">
-								<img src="images/dener.jpg" alt="" class="tapsilog"><p>Dinner</p>
-							</div>
-
-							<div style="display:inline-block">
-								<img src="images/dessert.jpg" alt="" class="tapsilog"><p>Desert</p>
+								<img src="images/cake.jpg" alt="" class="tapsilog"><p>Desert</p>
 							</div>
 							<!-- <div class="col-3 mt-3">
                 				<div class="card" style="width: 18rem;">
