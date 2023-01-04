@@ -1,0 +1,25 @@
+.col-md-4{
+    border: solid black 1px;
+    border-right: none;
+    height:1000px
+    
+}
+.col-md-5{
+    border: solid black 1px;
+    border-left: none;
+}
+img{
+    border-radius: 100%;
+}
+p{
+    font-size: 14px;
+}
+#row1{
+    margin-left: 310px;
+}.imahe{
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 100px;
+}
